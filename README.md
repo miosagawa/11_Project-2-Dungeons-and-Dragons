@@ -3,8 +3,12 @@
 Folder update content:
 Update date：Aug 3, 2020
 
-URL:https://miosagawa.github.io/05_Template-Engine/Develop/output/team.html
+URL:https://miosagawa.github.io/11_Project-2-Dungeons-and-Dragons/public/login.html
 Github:https://github.com/miosagawa/11_Project-2-Dungeons-and-Dragons.git
+
+    __Project sample:__
+
+![sample](sample.png)
 
 
 1.Project 2 Template（Created according to the following conditions）
